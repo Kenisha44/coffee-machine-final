@@ -92,8 +92,6 @@ while is_on:
                 
                 
 
-#udemy
-
 
 
 
